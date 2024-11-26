@@ -2,9 +2,9 @@
 
 ***
 
-<img align="right" src="https://i.pinimg.com/736x/5c/41/1a/5c411a9e673ebe5b328947cd47062e0e.jpg" alt="Imagem 3" style="border-radius: 10px; margin: 5px;" width="80">
-<img align="right" src="https://i.pinimg.com/control2/736x/ec/e2/19/ece2194ab4d1495da36a37faad78aece.jpg" alt="Imagem 1" style="border-radius: 10px; margin: 5px;" width="80">
-<img align="right" src="https://i.pinimg.com/control2/736x/f4/5e/ae/f45eae714610bee8c391a137279d3cb6.jpg" alt="Imagem 2" style="border-radius: 10px; margin: 5px;" width="80">
+<img align="right" src="https://i.pinimg.com/736x/f2/4b/f0/f24bf053e537cf65320ad73e836c468f.jpg" alt="Imagem 1" style="border-radius: 10px; margin: 5px;" width="90">
+<img align="right" src="https://i.pinimg.com/736x/2b/29/e2/2b29e283aa38aee584c8e39c41ad5273.jpg" alt="Imagem 2" style="border-radius: 10px; margin: 5px;" width="90">
+<img align="right" src="https://i.pinimg.com/736x/b2/08/ba/b208ba80da2375ce3d0cc12c9775658f.jpg" alt="Imagem 3" style="border-radius: 10px; margin: 5px;" width="90">
 
 ### _Sobre mim_
 -  _Atualmente cursando Ciência da Computação na Universidade Federal de Pelotas_.  
