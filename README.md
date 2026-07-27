@@ -12,18 +12,4 @@
 
 ***
 
-### _Linguagens em progresso_
-> ![ C ](https://img.shields.io/badge/c-8b5e34?style=flat&logo=c&logoColor=white)
-> ![ Java ](https://img.shields.io/badge/java-8b5e34?style=flat&logo=openjdk&logoColor=white)
-
-***
-
-### _Contatos_
-> ![Instagram](https://img.shields.io/badge/Instagram:_dienifer.ledebuhr-8b5e34?style=flat&logo=instagram&logoColor=white)
-![Email](https://img.shields.io/badge/Gmail:_dbledebuhr@inf.ufpel.edu.br-8b5e34?style=flat&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord:_Dyy.dyys-8b5e34?style=flat&logo=discord&logoColor=white) 
-
-***
-
-
 
